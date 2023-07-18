@@ -1,4 +1,4 @@
-### Hi there am Jair_VC👋
+### Hi there / Jair_VC👋
 
 <!--
 **JairVaz13/JairVaz13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

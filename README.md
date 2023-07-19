@@ -22,7 +22,7 @@
 
 <br>
 
-<h2> Tools 🛠️ </h2>
+<h2 align="center"> Tools 🛠️ </h2>
 
 <a href="https://github.com/JairVaz13" target="_blank">
     <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="github" /></a>
@@ -31,16 +31,8 @@
 
 <br>
 
-<h2> Connect with me: </h2>
+<h2 align="center"> Connect with me: </h2>
     
 <a href="https://codepen.io/Don-totis13" target="_blank">
       <img src="https://img.shields.io/badge/Codepen-000000.svg?style=for-the-badge&logo=codepen&logoColor=white" alt="example"/></a>
 
-
-<i>Happy Coding!</i> 😊
-
-</div>
-
-<div align="center">
-
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=ABSphreak&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="ABSphreak's Github Stats">

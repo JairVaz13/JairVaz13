@@ -36,8 +36,7 @@
 <h2> Connect with me: </h2>
 
     <a href="https://codepen.io/Don-totis13" target="_blank">
-      <img src="https://img.shields.io/badge/Codepen-000000.svg?style=for-the-badge&logo=codepen&logoColor=white" alt="example"/>
-    </a>
+      <img src="https://img.shields.io/badge/Codepen-000000.svg?style=for-the-badge&logo=codepen&logoColor=white" alt="example"/></a>
 
 
 <i>Happy Coding!</i> 😊

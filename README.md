@@ -7,7 +7,7 @@
 
 <br>   
     
-- **Front-End Development**: 
+- **Front-End**: 
   
    ![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
    ![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -17,9 +17,19 @@
 
 <br>
 
+- **Back-End**:
+
+
+<br>
+
 ### Tools 🛠️
 
-<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/vscode.png" alt="vscode logo" width="24">
+<a href="[https://github.com/ELanza-48](https://github.com/JairVaz13)" target="_blank">
+    <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="github" />
+    </a>
+<a href="https://code.visualstudio.com/" target="_blank">
+    <img src="https://img.shields.io/badge/vscode-007ACC.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="vsCode"/> 
+    </a>
 
 
 <i>Happy Coding!</i> 😊

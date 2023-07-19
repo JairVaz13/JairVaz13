@@ -31,8 +31,10 @@
 
 <br>
 
-<h2 align="center"> Connect with me: </h2>
+<h2 align="center"> Connect with me </h2>
     
 <a href="https://codepen.io/Don-totis13" target="_blank">
       <img src="https://img.shields.io/badge/Codepen-000000.svg?style=for-the-badge&logo=codepen&logoColor=white" alt="example"/></a>
+<a href="https://www.facebook.com/jair.vazquezcordero.56/">
+      <img src = "https://img.shields.io/badge/facebook-%2320A1F1.svg?&style=for-the-badge&logo=facebook&logoColor=white"></a>
 

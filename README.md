@@ -1,101 +1,167 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:00C9FF,50:92FE9D,100:FF6B35&text=Jair_VC&fontSize=55&fontAlignY=35&animation=fadeIn&fontColor=ffffff" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:00F5FF,25:00D9FF,50:7C4DFF,75:FF4D8D,100:FF7B00&text=JAIR_VC&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00C9FF&center=true&vCenter=true&width=700&lines=💻+Full-Stack+Developer;⚡+Frontend+%7C+Backend+%7C+Mobile;🚀+Building+cool+projects+every+day;🔥+React+%7C+Python+%7C+Flutter;🌎+Always+learning+new+technologies" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=1000&color=00F5FF&center=true&vCenter=true&width=900&lines=💻+Full-Stack+Developer;⚡+Frontend+•+Backend+•+Mobile;🚀+React+•+Python+•+Flutter;🎧+Coding+with+music+24/7;🔥+Creating+cool+things+from+ideas" />
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=JairVaz13&label=Profile%20Views&color=00c9ff&style=for-the-badge" />
-<img src="https://img.shields.io/github/followers/JairVaz13?style=for-the-badge&color=00c9ff&labelColor=1a1b27" />
-<img src="https://img.shields.io/github/stars/JairVaz13?style=for-the-badge&color=ff6b35&labelColor=1a1b27" />
+<img src="https://img.shields.io/github/followers/JairVaz13?style=for-the-badge&logo=github&color=7C4DFF&labelColor=0d1117" />
+<img src="https://img.shields.io/github/stars/JairVaz13?style=for-the-badge&logo=github&color=FF4D8D&labelColor=0d1117" />
+<img src="https://komarev.com/ghpvc/?username=JairVaz13&style=for-the-badge&color=00F5FF&label=PROFILE+VIEWS" />
 
 </div>
 
 ---
 
-# 🧠 About Me
+# 🌌 About Me
 
-```js
-const Jair = {
-    location: "México 🇲🇽",
+<img align="right" height="190" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+
+```javascript
+const JairVC = {
+    name: "Jair",
+    country: "México 🇲🇽",
     role: "Full-Stack Developer",
-    code: ["JavaScript", "Python", "Dart"],
+    
+    languages: [
+        "JavaScript",
+        "Python",
+        "Dart"
+    ],
+
     technologies: {
-        frontend: ["React", "HTML", "CSS"],
-        backend: ["Python", "MySQL"],
-        mobile: ["Flutter"],
-        tools: ["Git", "Linux", "VS Code"]
+        frontend: [
+            "React",
+            "HTML5",
+            "CSS3",
+            "Tailwind"
+        ],
+
+        backend: [
+            "Python",
+            "Node.js",
+            "MySQL"
+        ],
+
+        mobile: [
+            "Flutter"
+        ]
     },
-    currentFocus: "Building modern & creative applications 🚀"
+
+    currentlyLearning: [
+        "AI",
+        "Backend Architecture",
+        "Cybersecurity"
+    ],
+
+    lifeStyle: [
+        "Code ☕",
+        "Music 🎧",
+        "Create 🚀"
+    ]
 };
 ```
 
 ---
 
-# ⚡ Tech Stack
+# ⚡ Tech Arsenal
 
 <div align="center">
 
-## 🎨 Frontend
-
-<img src="https://skillicons.dev/icons?i=react,html,css,js,bootstrap,tailwind" />
-
----
-
-## ⚙️ Backend & Mobile
-
-<img src="https://skillicons.dev/icons?i=python,mysql,flutter,dart,nodejs,firebase" />
-
----
-
-## 🛠️ Tools & Software
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,linux,arduino" />
+<img src="https://skillicons.dev/icons?i=react,js,ts,html,css,tailwind,python,mysql,nodejs,flutter,dart,firebase,git,github,vscode,linux,androidstudio,arduino&perline=6" />
 
 </div>
 
 ---
 
-# 📊 GitHub Analytics
+# 📊 GitHub Universe
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=JairVaz13&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00C9FF&icon_color=00C9FF&text_color=ffffff"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=JairVaz13&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5FF&icon_color=7C4DFF&text_color=ffffff"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JairVaz13&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00C9FF&text_color=ffffff"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JairVaz13&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF4D8D&text_color=ffffff"/>
 
-</div>
+<br><br>
 
-<div align="center">
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=JairVaz13&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00F5FF&line=7C4DFF&point=FF4D8D"/>
 
-<img width="85%" src="https://streak-stats.demolab.com?user=JairVaz13&theme=tokyonight&hide_border=true&background=0d1117&ring=00C9FF&fire=FF6B35&currStreakLabel=92FE9D"/>
+<br><br>
 
-</div>
-
----
-
-# 🏆 Achievements
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=JairVaz13&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15&column=4" />
+<img width="98%" src="https://streak-stats.demolab.com?user=JairVaz13&theme=tokyonight&hide_border=true&background=0D1117&ring=00F5FF&fire=FF7B00&currStreakLabel=7C4DFF"/>
 
 </div>
 
 ---
 
-# 🎵 Spotify — Now Playing
+# 🏆 GitHub Trophies
 
 <div align="center">
 
-[![Spotify](https://spotify-github-profile.kittinan.dev/api/view?uid=TU_USUARIO_SPOTIFY&cover_image=true&theme=novatorem&show_offline=false&background_color=0d1117&interchange=false&bar_color=00C9FF&bar_color_cover=false)](https://spotify-github-profile.kittinan.dev/login)
+<img src="https://github-profile-trophy.vercel.app/?username=JairVaz13&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15&column=4"/>
 
 </div>
 
-```md
-⚠️ Reemplaza TU_USUARIO_SPOTIFY con tu UID de Spotify.
-```
+---
+
+# 🎧 Spotify Zone
+
+<div align="center">
+
+## 🎵 Currently Playing
+
+[![Spotify](https://spotify-github-profile.kittinan.dev/api/view?uid=TU_USUARIO_SPOTIFY&cover_image=true&theme=novatorem&show_offline=true&background_color=0D1117&interchange=false&bar_color=00F5FF&bar_color_cover=false)](https://spotify-github-profile.kittinan.dev/login)
+
+<br><br>
+
+## 🔥 Favorite Tracks
+
+<a href="https://open.spotify.com/track/2takcwOaAZWiXQijPHIx7B">
+<img src="https://img.shields.io/badge/🎵%20Blinding%20Lights-Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white"/>
+</a>
+
+<a href="https://open.spotify.com/track/3DarAbFujv6eYNliUTyqtz">
+<img src="https://img.shields.io/badge/🎧%20Starboy-Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white"/>
+</a>
+
+<a href="https://open.spotify.com/track/7qiZfU4dY1lWllzX7mPBI3">
+<img src="https://img.shields.io/badge/🔥%20Shape%20of%20You-Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white"/>
+</a>
+
+<a href="https://open.spotify.com/track/4uLU6hMCjMI75M1A2tKUQC">
+<img src="https://img.shields.io/badge/⚡%20Never%20Gonna%20Give%20You%20Up-Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white"/>
+</a>
+
+<br><br>
+
+<a href="https://open.spotify.com/track/1rgnBhdG2JDFTbYkYRZAku">
+<img src="https://img.shields.io/badge/💫%20Someone%20You%20Loved-Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white"/>
+</a>
+
+<a href="https://open.spotify.com/track/0VjIjW4GlUZAMYd2vXMi3b">
+<img src="https://img.shields.io/badge/🌙%20Save%20Your%20Tears-Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white"/>
+</a>
+
+<a href="https://open.spotify.com/track/4iV5W9uYEdYUVa79Axb7Rh">
+<img src="https://img.shields.io/badge/🎶%20Smells%20Like%20Teen%20Spirit-Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white"/>
+</a>
+
+<a href="https://open.spotify.com/track/6habFhsOp2NvshLv26DqMb">
+<img src="https://img.shields.io/badge/🚀%20Industry%20Baby-Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+# 🧩 Dev Quote
+
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+
+</div>
 
 ---
 
@@ -104,15 +170,19 @@ const Jair = {
 <div align="center">
 
 <a href="https://github.com/JairVaz13">
-<img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="https://codepen.io/Don-totis13">
-<img src="https://img.shields.io/badge/CodePen-0d1117?style=for-the-badge&logo=codepen&logoColor=white"/>
+<img src="https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white"/>
 </a>
 
 <a href="https://www.facebook.com/jair.vazquezcordero.56/">
 <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+</a>
+
+<a href="mailto:tuemail@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </div>
@@ -121,8 +191,8 @@ const Jair = {
 
 <div align="center">
 
-## 🚀 “Code. Create. Innovate.”
+## 🚀 Code • Create • Innovate
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:00C9FF,50:92FE9D,100:FF6B35"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&section=footer&color=0:00F5FF,25:00D9FF,50:7C4DFF,75:FF4D8D,100:FF7B00"/>
 
 </div>

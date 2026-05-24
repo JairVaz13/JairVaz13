@@ -65,15 +65,6 @@ const JairVC = {
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-# <img src="https://media2.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Skills & Technologies
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Frontend+%26+Mobile+Enthusiast;Flutter+%7C+Python+%7C+JavaScript;Always+learning+new+technologies" />
-</p>
-
-
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25"> Languages
 
 <p align="center">
@@ -154,6 +145,8 @@ const JairVC = {
   <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"/>
   <img src="https://img.shields.io/badge/API%20REST-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Image%20Recognition-5C2D91?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Data%20Analysis-FF6F00?style=for-the-badge&logo=googleanalytics&logoColor=white"/>
 
 </p>
 

@@ -77,7 +77,7 @@ const JairVC = {
   <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
 
 </p>
-
+<br><br>
 
 ## 🚀 Frameworks & Libraries
 
@@ -89,7 +89,7 @@ const JairVC = {
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
 
 </p>
-
+<br><br>
 
 ## 🎨 Front-End Development
 
@@ -101,7 +101,7 @@ const JairVC = {
   <img src="https://img.shields.io/badge/Responsive%20Design-000000?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 
 </p>
-
+<br><br>
 
 ## ☁️ Cloud & Hosting
 
@@ -114,7 +114,7 @@ const JairVC = {
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
 
 </p>
-
+<br><br>
 
 ## 🛠️ Software & Tools
 
@@ -135,7 +135,7 @@ const JairVC = {
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
 
 </p>
-
+<br><br>
 
 ## ⚡ Extras
 
@@ -150,7 +150,7 @@ const JairVC = {
   <img src="https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge&logo=tensorflow&logoColor=orange"/>
 
 </p>
-
+<br><br>
    
 <div align="center">
 

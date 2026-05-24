@@ -87,7 +87,6 @@ const JairVC = {
 
 </p>
 
----
 
 ## 🚀 Frameworks & Libraries
 
@@ -99,7 +98,6 @@ const JairVC = {
 
 </p>
 
----
 
 ## 🎨 Front-End Development
 
@@ -112,18 +110,19 @@ const JairVC = {
 
 </p>
 
----
 
 ## ☁️ Cloud & Hosting
 
 <p align="center">
 
   <img src="https://img.shields.io/badge/GitHub%20Pages-121013?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Hostinger-673DE6?style=for-the-badge&logo=hostinger&logoColor=white"/>
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
 
 </p>
 
----
 
 ## 🛠️ Software & Tools
 
@@ -145,7 +144,6 @@ const JairVC = {
 
 </p>
 
----
 
 ## ⚡ Extras
 
@@ -158,7 +156,6 @@ const JairVC = {
 
 </p>
 
----
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:8A2BE2&height=120&section=footer"/>

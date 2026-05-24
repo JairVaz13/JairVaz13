@@ -67,126 +67,49 @@ const JairVC = {
 
 ---
 
-# ⚡ Tech Arsenal
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
-<div align="center">
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
+<br>
 
-<img src="https://skillicons.dev/icons?i=react,html,css,js,tailwind,bootstrap,python,mysql,nodejs,firebase,flutter,dart,git,github,vscode,androidstudio,linux,arduino&perline=6" />
+<p align="center">
 
-</div>
+- **Languages**:
+    
+    ![C](https://img.shields.io/badge/C%20-%232370ED.svg?style=for-the-badge&logo=c&logoColor=white)
+    ![C++](https://img.shields.io/badge/C++%20-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+    ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
 
----
+<br>   
+    
+- **Front-End Development**:
 
-# 🚀 Featured Skills
+   ![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+   ![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+   ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 
-<div align="center">
+<br>
 
-| 💻 Frontend | ⚙️ Backend | 📱 Mobile | 🛠️ Tools |
-|:---:|:---:|:---:|:---:|
-| React | Python | Flutter | Git |
-| HTML5 | MySQL | Dart | Linux |
-| CSS3 | APIs | Firebase | VS Code |
-| JavaScript | Node.js | Android Studio | Arduino |
+- **Cloud Hosting**:
 
-</div>
+    ![Github Pages](https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?style=for-the-badge&logo=github&logoColor=white)
+    
+<br>
 
----
+- **Softwares and Tools**:
 
-# 📊 GitHub Analytics
+    ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+    ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+    ![Google](https://img.shields.io/badge/google-%234285F4.svg?style=for-the-badge&logo=google&logoColor=white)
+    ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+    ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) 
 
-<div align="center">
+<br>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=JairVaz13&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00F5FF&icon_color=8A2BE2&text_color=ffffff"/>
+- **Extras**:
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JairVaz13&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=FF6B35&text_color=ffffff"/>
-
-<br><br>
-
-<img width="80%" src="https://streak-stats.demolab.com?user=JairVaz13&theme=tokyonight&hide_border=true&background=0d1117&ring=00F5FF&fire=FF6B35&currStreakLabel=8A2BE2"/>
-
-</div>
-
----
-
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=JairVaz13&theme=tokyonight&no-frame=true&margin-w=20&margin-h=20&column=4"/>
-
-</div>
-
----
-
-# 🎧 Spotify Vibes
-
-<div align="center">
-
-### 🎵 Currently Playing
-
-[![Spotify](https://spotify-github-profile.kittinan.dev/api/view?uid=TU_USUARIO_SPOTIFY&cover_image=true&theme=novatorem&show_offline=true&background_color=0d1117&interchange=false&bar_color=00F5FF&bar_color_cover=false)](https://spotify-github-profile.kittinan.dev/login)
-
-<br><br>
-
-### 🔥 Top Tracks
-
-<a href="https://github.com/kittinan/spotify-github-profile">
-<img src="https://spotify-recently-played-readme.vercel.app/api?user=TU_USUARIO_SPOTIFY&count=10&unique=true"/>
-</a>
-
-<br><br>
-
-### 🎶 Favorite Playlist
-
-<a href="https://open.spotify.com/">
-<img src="https://img.shields.io/badge/Open%20My%20Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white"/>
-</a>
-
-</div>
-
-```md
-⚠️ CONFIGURACIÓN SPOTIFY
-
-1. Entra aquí:
-https://spotify-github-profile.kittinan.dev/login
-
-2. Inicia sesión con Spotify.
-
-3. Copia tu UID.
-
-4. Reemplaza:
-TU_USUARIO_SPOTIFY
-
-5. También puedes usar:
-https://spotify-recently-played-readme.vercel.app
-para mostrar tus canciones recientes.
-```
-
----
-
-# 🌐 Connect With Me
-
-<div align="center">
-
-<a href="https://github.com/JairVaz13">
-<img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://codepen.io/Don-totis13">
-<img src="https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white"/>
-</a>
-
-<a href="https://www.facebook.com/jair.vazquezcordero.56/">
-<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
-</a>
-
-<a href="https://open.spotify.com/">
-<img src="https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white"/>
-</a>
-
-</div>
-
----
+    ![Terminal](https://img.shields.io/badge/Terminal-%23054020?style=for-the-badge&logo=gnu-bash&logoColor=white)
+    ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)   
 
 <div align="center">
 
